@@ -204,10 +204,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-unicodedb-master": "src-unicodedb-master"
+        "src-unicodedb-0_11_1": "src-unicodedb-0_11_1"
       }
     },
-    "src-unicodedb-master": {
+    "src-unicodedb-0_11_1": {
       "flake": false,
       "locked": {
         "lastModified": 1667709069,
@@ -219,7 +219,7 @@
       },
       "original": {
         "owner": "nitely",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.11.1",
         "repo": "nim-unicodedb",
         "type": "github"
       }
